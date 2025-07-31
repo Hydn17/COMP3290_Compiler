@@ -1,0 +1,3 @@
+To Run The Simulator:
+
+java -jar SM25.jar
